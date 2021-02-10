@@ -1,0 +1,10 @@
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\bin\Debug\ZadatakKolokvijum1.exe.config
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\bin\Debug\ZadatakKolokvijum1.exe
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\bin\Debug\ZadatakKolokvijum1.pdb
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\obj\Debug\ZadatakKolokvijum1.csprojAssemblyReference.cache
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\obj\Debug\ZadatakKolokvijum1.Form1.resources
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\obj\Debug\ZadatakKolokvijum1.Properties.Resources.resources
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\obj\Debug\ZadatakKolokvijum1.csproj.GenerateResource.cache
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\obj\Debug\ZadatakKolokvijum1.csproj.CoreCompileInputs.cache
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\obj\Debug\ZadatakKolokvijum1.exe
+C:\CSharp\SolZadatakKolokvijum1\ZadatakKolokvijum1\obj\Debug\ZadatakKolokvijum1.pdb
